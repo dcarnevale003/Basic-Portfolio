@@ -1,0 +1,194 @@
+* {
+  box-sizing: border-box;
+  text-align: left;
+}
+
+
+body {
+
+	width: 960px;
+	margin: auto;
+	background-color: #e7e7e7;
+	background-image: url("assets/images/ignasi_pattern_s.png");
+}
+
+
+
+header {
+
+	padding: 20px;
+	color: #777;
+  	background: #ffffff;
+  	height: 100px;
+  	border-bottom: 1px solid grey;
+  	
+}
+
+h1 {
+
+	padding: 28px;
+	color: #ffffff;
+  	background: #4aaaa5;
+  	height: 99px;
+  	width: 330px;
+  	float: left;
+  	margin-top: -20px;
+  	margin-left: -20px;
+  	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+}    
+
+.nav{
+	color: #777777;
+
+
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 15px;
+    margin-right: -20px;
+    float: right;
+    width: 270px;
+	padding: 10px;
+}
+
+li {
+    display: inline;
+    border-right: 1px solid #777777;
+    padding: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #777777;
+
+}
+
+.contact {
+	border: none;
+}
+
+section {
+	clear: both;
+	width: 650px;
+	color: #777777;
+	float: left;
+	background-color: #fff;
+	border: 1px solid grey;
+	margin-bottom: 50px;
+	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+}
+
+h2 {
+	color: #4aaaa5;
+	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+	margin-left: 20px;
+}
+
+.style1 {
+	width: 600px;
+}
+
+#portfolio {
+	display: inline-block;
+   
+}
+
+
+
+
+#p1 {
+	width: 277px;
+	height: 200px;
+	margin: 20px;
+	margin-left: 25px;
+
+}
+#p2 {
+	width: 277px;
+	height: 200px;
+	margin: 20px;
+}
+#p3 {
+	width: 277px;
+	height: 200px;
+	margin: 20px;
+	margin-left: 25px;
+
+}
+#p4 {
+	width: 277px;
+	height: 200px;
+	margin: 20px;
+
+}
+#p5 {
+	width: 277px;
+	height: 200px;
+	margin: 20px;
+	margin-left: 25px;
+
+
+}
+
+aside {
+
+	background-color: #ffffff;
+	width: 270px;
+	height: 200px;
+	color: #777;
+	float: right;
+	border: 1px solid grey;
+	color: #4aaaa5;
+	font-size: 20px;	
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+	text-align: center;
+}
+
+.style2 {
+	width: 200px;
+}
+
+
+
+#git {
+	width: 58px;
+	height: 60px;
+	margin-top: 25px;
+	float: left;
+	margin-left: 30px;
+}
+
+#linkedin {
+	width: 58px;
+	height: 66px;
+	margin-top: 22px;
+	float: left;
+	margin-left: 14px;
+}
+
+#overflow {
+	width: 58px;
+	height: 60px;
+	margin-top: 25px;
+	float: left;
+	margin-left: 14px;
+}
+
+
+
+footer {
+
+	clear: both;
+	color: #777777;
+  	background: #666666;
+  	height: 100px;
+  	border-top: 5px solid #4aaaa5;
+  	color: #e7e7e7;
+	padding-top: 15px;
+	margin-bottom: -20px;
+	margin-top: -80px;
+}
